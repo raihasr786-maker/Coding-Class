@@ -1,7 +1,7 @@
 def input_print_names():
     names = []
     for i in range(5):
-        name=input("Type ina a name-> ")
+        name=input("Type in a name-> ")
         names.append(name)
     return names
 
